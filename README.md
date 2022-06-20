@@ -8,7 +8,7 @@
 
 
 :books:  - Atualmente estou Estudando desenvolvimento Web(FullStack).<br>
-:scroll: - E o que estou focando é: JavaScript, Node.Js, Next, Rest, React, Express. <br>
+:scroll: - Estou focando em: JavaScript, Node.Js, Next, Rest, React, Express. <br>
 :floppy_disk: - Banco de dados com que tenho trabalhado em meus estudos são: MySql, Mongodb (até o momento). <br>
 
 
